@@ -1,0 +1,14 @@
+{
+  "name": "六爻排盘解卦",
+  "short_name": "六爻排盘",
+  "description": "基于京房纳甲六爻理论的排盘与解卦工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#c0392b",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
