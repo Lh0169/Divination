@@ -46,3 +46,14 @@ coverage/
 
 # CodeGraph
 .codegraph/
+
+# 开发文档（不上传公开仓库）
+CHANGELOG.md
+CLAUDE.md
+项目手册.md
+
+# 开发构建产物
+dev-dist/
+
+# 空占位文件
+.gitkeep
